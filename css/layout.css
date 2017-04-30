@@ -33,10 +33,10 @@ File: Layout CSS
 
 /* Header
 --------------------------------------------------------------------------------------------------------------- */
-#header{}
+#header_on{}
 
-#header #logo{margin:8px 0 0 0;}
-#header #logo h1{margin:0; padding:0; text-transform:none; font-size:36px; font-variant:small-caps;}
+#header_on #logo{margin:8px 0 0 0;}
+#header_on #logo h1{margin:0; padding:0; text-transform:none; font-size:36px; font-variant:small-caps;}
 
 
 /* Intro
@@ -276,7 +276,7 @@ label span{color:#FF0000; background-color:inherit;}
 
 
 /* Header */
-#header #logo h1 a{color:inherit;}
+#header_on #logo h1 a{color:inherit;}
 
 
 /* Intro */
@@ -362,14 +362,14 @@ table a, #comments a{background-color:inherit;}
 }
 
 @media screen and (min-width:180px) and (max-width:900px) {
-	#topbar, #header, #intro, #breadcrumb, .container, #cta, #footer, #copyright{max-width:95%;}
+	#topbar, #header_on, #intro, #breadcrumb, .container, #cta, #footer, #copyright{max-width:95%;}
 
 	#topbar{text-align:center;}
 	#topbar ul{margin-bottom:10px;}
 	#topbar > div:nth-of-type(2) ul{margin:0;}
 
-	#header{padding:15px 0; text-align:center;}
-	#header #logo{margin:0 0 20px 0;}
+	#header_on{padding:15px 0; text-align:center;}
+	#header_on #logo{margin:0 0 20px 0;}
 
 	#mainav{margin-top:5px;}
 	#mainav ul{display:none;}
@@ -400,7 +400,7 @@ table a, #comments a{background-color:inherit;}
 /* Max Wrapper Width - Laptop, Desktop etc.
 --------------------------------------------------------------------------------------------------------------- */
 @media screen and (min-width:978px) {
-	#topbar, #header, #intro, #breadcrumb, .container, #cta, #footer, #copyright{max-width:978px;}
+	#topbar, #header_on, #intro, #breadcrumb, .container, #cta, #footer, #copyright{max-width:978px;}
 }
 
 
