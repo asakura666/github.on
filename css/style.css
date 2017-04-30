@@ -125,7 +125,7 @@ header .inner {
 	float: left;	/*左に回り込み*/
 	width: 19%;		/*幅*/
 	margin-left: 1%;	/*メニュー間のスペース*/
-	line-height: 1.4;	/*行間を通常より少し狭くする*/
+	line-height: 1.4;	/*行間を通常より少し狭くする*/ 
 }
 #menubar li a,
 #menubar-s li a {
