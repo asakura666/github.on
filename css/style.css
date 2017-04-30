@@ -286,7 +286,7 @@ header .inner {
 /*サブコンテンツブロック*/
 #sub {
 	float: left;	/*左に回り込み*/
-	width: 22%;		/*ブロック幅*/
+	width: 25%;		/*ブロック幅*/
 	overflow: hidden;
 }
 /*１カラム時のサブブロック。非表示にする設定。*/
