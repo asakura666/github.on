@@ -694,6 +694,34 @@ section#new h2.close {
 	padding: 5px;
 }
 
+/*トップへ戻るボタン
+---------------------------------------------------------------------------*/
+#pageTop {
+
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
+
+#pageTop a {
+  display: block;
+  z-index: 999;
+  padding: 12px 5px 0px 0px;
+  border-radius: 5px;
+  width: 122px;
+  height: 50px;
+  background-color: #5ca0e1;
+  color: #fff;
+  font-weight: bold;
+  text-decoration: none;
+  text-align: center;
+}
+
+#pageTop a:hover {
+  text-decoration: none;
+  opacity: 0.7;
+}	
+
 /*その他
 ---------------------------------------------------------------------------*/
 .ws,.wl {width: 95%;}
