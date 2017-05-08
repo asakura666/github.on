@@ -175,6 +175,27 @@ background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%,
 
 }
 
+.selectPayment a {
+ box-shadow:0 5px 0 #f9ad19;
+ background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #feb42f), color-stop(100%, #ffe570));
+ background-image: -webkit-linear-gradient(top, #feb42f, #ffe570);
+ background-image: -moz-linear-gradient(top, #feb42f, #ffe570);
+ background-image: -ms-linear-gradient(top, #feb42f, #ffe570);
+ background-image: -o-linear-gradient(top, #feb42f, #ffe570);
+ background-image: linear-gradient(top, #feb42f, #ffe570);filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#feb42f, endColorstr=#ffe570);
+
+}
+ 
+.selectPayment a:hover {
+ background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffe570), color-stop(100%, #feb42f));
+ background-image: -webkit-linear-gradient(top, #ffe570, #feb42f);
+ background-image: -moz-linear-gradient(top, #ffe570, #feb42f);
+ background-image: -ms-linear-gradient(top, #ffe570, #feb42f);
+ background-image: -o-linear-gradient(top, #ffe570, #feb42f);
+ background-image: linear-gradient(top, #ffe570, #feb42f);filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#ffe570, endColorstr=#feb42f);
+
+}
+
 #sub .box1 {
  padding: 2%;
  margin-bottom: 5px;
