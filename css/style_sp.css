@@ -8,7 +8,8 @@ display:none;
 display:none;
 }
 h2{
-text-align:center;
+text-align:left;
+padding-left: 17px;
 }
 
 #header {
