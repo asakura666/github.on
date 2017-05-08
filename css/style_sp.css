@@ -115,10 +115,10 @@ display:block;
 padding-top: 19px;
 padding-right: 0px;
 padding-bottom: 16px;
-padding-left: 17px;
+padding-left: 0px;
 color:#fff;
 border-radius:6px;
-text-align:left;
+text-align:center;
 text-decoration: none;
 text-shadow:1px 1px 0 rgba(255,255,255,0.3);
 }
