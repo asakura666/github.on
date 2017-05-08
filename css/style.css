@@ -570,7 +570,7 @@ header .inner,#container,#pagetop,#footermenu {
 	width: 30px;	/*幅*/
 	border: 1px solid #fff;	/*枠線の幅、線種、色*/
 	padding: 12px 10px 5px;	/*上、左右、下へのボックス内余白*/
-	background: #4a88dd;	/*背景色*/
+	background: #EC971F;	/*背景色*/
 }
 /*３本のバー（1本あたり）*/
 #menubar_hdr span {
