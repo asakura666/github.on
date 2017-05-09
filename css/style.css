@@ -154,8 +154,7 @@ header .inner {
 	top: 10px;
 	content: "→";	/*このテキストを表示させる。変更してもOKですが機種依存文字は使わないように。*/
 	background: linear-gradient(#4a88dd, #2963b9);	/*背景色*/
-	color: #555;	/*文字色*/
-	font-weight: bold;
+	color: #FFF;	/*文字色*/
 	font-size: 10px;	/*文字サイズ*/
 	font-family: "ＭＳ ゴシック", "MS Gothic", "Osaka－等幅", "Osaka-mono", "monospace";	/*フォント指定*/
 	width: 16px;	/*幅*/
